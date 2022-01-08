@@ -20,7 +20,7 @@ const (
 type (
 	// List list idx.
 	List struct {
-		// record saves the List of a specified key.
+		// rcord saves the List of a specified key.
 		record Record
 
 		// values saves the values of a List, help checking if a value exists in List.
